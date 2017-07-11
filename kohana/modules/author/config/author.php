@@ -1,0 +1,4 @@
+<?php
+return [
+	'passport' => 'sphinxpassport'
+];
