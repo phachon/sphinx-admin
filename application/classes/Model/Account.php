@@ -1,7 +1,7 @@
 <?php
 /**
  * 数据模型 - 账号
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Model_Account extends Model_Base {
 

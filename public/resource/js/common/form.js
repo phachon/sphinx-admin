@@ -1,6 +1,6 @@
 /**
  * 表单提交类
- * Copyright (c) 2017 panchao
+ * Copyright (c) 2017 phachon@163.com
  */
 var Form = {
 

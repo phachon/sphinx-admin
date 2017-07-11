@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例接口
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Interface_Service extends Controller_Api {
 

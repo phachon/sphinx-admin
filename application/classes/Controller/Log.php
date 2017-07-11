@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
  * 账号管理
- * @author panchao
+ * @author phachon@163.com
  */
 class Controller_Log extends Controller_Render {
 

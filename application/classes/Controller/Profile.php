@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
  * 个人中心管理
- * @author panchao
+ * @author phachon@163.com
  */
 class Controller_Profile extends Controller_Render {
 

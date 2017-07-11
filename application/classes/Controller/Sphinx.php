@@ -1,7 +1,7 @@
 <?php
 /**
  * Sphinx 操作相关接口
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Sphinx extends Controller_Api {
 

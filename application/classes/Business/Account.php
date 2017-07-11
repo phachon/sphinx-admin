@@ -1,7 +1,7 @@
 <?php
 /**
  * 业务逻辑层 - 账号
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Business_Account extends Business {
 

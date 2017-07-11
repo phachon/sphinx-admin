@@ -1,7 +1,7 @@
 <?php
 /**
  * 登录管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Author extends Controller_Render {
 

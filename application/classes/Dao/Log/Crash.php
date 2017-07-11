@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
  * 异常日志 dao 层 
- * @author panchao
+ * @author phachon@163.com
  */
 class Dao_Log_Crash extends Dao {
 

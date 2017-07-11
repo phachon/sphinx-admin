@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例字段 -- 业务逻辑
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Business_Service_Column extends Business {
 

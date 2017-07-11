@@ -1,7 +1,7 @@
 <?php
 /**
  * 任务管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Task extends Controller_Render {
 

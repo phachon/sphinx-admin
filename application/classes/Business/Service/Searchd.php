@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例进程
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Business_Service_Searchd extends Business {
 

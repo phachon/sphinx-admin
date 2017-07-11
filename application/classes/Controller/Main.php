@@ -1,7 +1,7 @@
 <?php
 /**
  * Index Controller
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Main extends Controller_Render {
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例字段管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Service_Column extends Controller_Render {
 

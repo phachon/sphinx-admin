@@ -1,7 +1,7 @@
 <?php
 /**
  * 机器管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Machine extends Controller_Render {
 

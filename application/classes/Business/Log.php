@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
  * 日志业务逻辑
- * @author panchao
+ * @author phachon@163.com
  */
 class Business_Log extends Business {
 	

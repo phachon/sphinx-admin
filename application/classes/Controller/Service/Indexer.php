@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例索引管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Service_Indexer extends Controller_Render {
 

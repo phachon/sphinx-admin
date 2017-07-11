@@ -1,7 +1,7 @@
 <?php
 /**
  * 业务逻辑层 - 实例
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Business_Service extends Business {
 

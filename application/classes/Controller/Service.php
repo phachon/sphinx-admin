@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Service extends Controller_Render {
 

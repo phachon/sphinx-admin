@@ -1,7 +1,7 @@
 <?php
 /**
  * 接口控制器基类
- * @author panchao
+ * @author phachon@163.com
  */
 class Controller_Api extends Controller {
 

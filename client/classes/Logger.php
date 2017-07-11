@@ -1,7 +1,7 @@
 <?php
 /**
  * 日志操作
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Logger {
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * 任务接口
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Interface_Task extends Controller_Api {
 

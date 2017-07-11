@@ -1,7 +1,7 @@
 <?php
 /**
  * 首页管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Index extends Controller_Render {
 

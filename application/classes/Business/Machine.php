@@ -1,7 +1,7 @@
 <?php
 /**
  * 业务逻辑层 - 机器
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Business_Machine extends Business {
 

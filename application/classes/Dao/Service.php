@@ -1,7 +1,7 @@
 <?php
 /**
  * 数据访问 - 实例
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Dao_Service extends Dao {
 

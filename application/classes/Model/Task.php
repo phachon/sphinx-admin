@@ -1,7 +1,7 @@
 <?php
 /**
  * 数据模型 - 任务
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Model_Task extends Model_Base {
 

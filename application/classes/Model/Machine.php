@@ -1,7 +1,7 @@
 <?php
 /**
  * 数据模型 - 机器
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Model_Machine extends Model_Base {
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * 数据访问 - 机器
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Dao_Machine extends Dao {
 

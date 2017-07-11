@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例进程管理
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Controller_Service_Searchd extends Controller_Render {
 

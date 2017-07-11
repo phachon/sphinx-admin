@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
  * 异常日志 model
- * @author panchao
+ * @author phachon@163.com
  */
 class Model_Log_Crash extends Model_Base {
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例索引 -- 业务逻辑
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Business_Service_Indexer extends Business {
 

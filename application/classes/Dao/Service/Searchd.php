@@ -1,7 +1,7 @@
 <?php
 /**
  * 实例进程 -- 数据访问
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Dao_Service_Searchd extends Dao {
 

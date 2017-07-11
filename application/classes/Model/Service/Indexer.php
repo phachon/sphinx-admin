@@ -1,7 +1,7 @@
 <?php
 /**
  * 数据模型 - 实例索引
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Model_Service_Indexer extends Model_Base {
 

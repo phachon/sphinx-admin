@@ -1,7 +1,7 @@
 <?php
 /**
  * 启动器
- * @author: panchao
+ * @author: phachon@163.com
  */
 class Bootstrap {
 
